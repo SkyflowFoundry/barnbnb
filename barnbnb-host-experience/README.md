@@ -8,3 +8,5 @@ available and the .env.constants file needs to be updated and renamed to .env.
 * Skyflow connection to Moov account creation and payment APIs
 * AWS DynamoDB
 * Snowflake
+
+See main [**README**](/README.md) for full instructions.
